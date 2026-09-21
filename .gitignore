@@ -1,0 +1,4 @@
+# DMGs are distributed via GitHub Releases — never commit them here.
+# Committing built binaries directly to git history is what caused this
+# repo to exceed a 10GB Git LFS quota before (2026-09).
+*.dmg
